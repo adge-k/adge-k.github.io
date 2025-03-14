@@ -4,8 +4,7 @@
     <title>Dev Notes</title>
     <link>https://adge-k.github.io/</link>
     <description>Recent content on Dev Notes</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://adge-k.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://adge-k.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
