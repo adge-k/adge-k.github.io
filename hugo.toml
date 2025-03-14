@@ -1,3 +1,4 @@
 baseURL = 'https://adge-k.github.io/'
 languageCode = 'en-us'
 title = 'Dev Notes'
+publishDir = 'docs'
