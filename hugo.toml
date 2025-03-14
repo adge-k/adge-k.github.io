@@ -67,8 +67,8 @@ pagination.pagerSize = 5
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "re-Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Dev-Notes"
+    subtitle = ""
     owner = ""
     keywords = ""
     copyright = ""
@@ -83,7 +83,7 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-Terminal"
+      logoText = "Dev-Notes"
       logoHomeLink = "/"
 
     [languages.en.menu]
